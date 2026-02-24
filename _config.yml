@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zimu Huo / Personal Site"
+title                    : "Zimu Huo / Personal Website"
 title_separator          : "-"
 name                     : &name "Zimu Huo"
 description              : &description "personal description"
@@ -303,5 +303,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
